@@ -1,0 +1,14 @@
+{
+  "name": "global-log",
+  "version": "1.0.1",
+  "description": "global-log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL",
+  "dependencies": {
+    "winston": "^2.2.0"
+  }
+}
