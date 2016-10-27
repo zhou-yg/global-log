@@ -1,3 +1,5 @@
+## provide simple log functions by winston
+
 ### License
 
-provide simple log functions by winston
+GPL
